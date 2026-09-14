@@ -210,9 +210,8 @@ print(classification_report(y_test, predictions))
 
 <H3>Output:</H3>
 
-![alt text](<Screenshot 2026-09-04 184530.png>)
+<img width="727" height="476" alt="image" src="https://github.com/user-attachments/assets/57e63453-ceb3-4f69-863b-4b97f1070449" />
 
-![alt text](<Screenshot 2026-09-04 184539.png>)
 
 
 <H3>Result:</H3>
